@@ -58,7 +58,7 @@ _Step 10_ After finishing the previous step it will automatically take you to th
 
 ## Testing 
 
-If you would like to test the PayPal integration, you can use Sandbox Accounts for these. 
+If you would like to test the PayPal integration, you can use Sandbox Accounts. 
 
 ### Accessing & Creating SandBox Credentials
 
