@@ -62,7 +62,7 @@ If you would like to test the PayPal integration, you can use Sandbox Accounts f
 
 ### Accessing & Creating SandBox Credentials
 
-1. Log to your _Developer Account_
+1. Log in to your _Developer Account_
 2. Navigate to _Testing Tools_
 3. Create two accounts for _Personal Account_ and the other for a _Business Account_. You will be using the business one to collect subscription money, while the personal account shall be used to make the payments for those testing transactions.
 5. Know that real PayPal payments can be received too.
