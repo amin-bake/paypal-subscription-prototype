@@ -8,7 +8,7 @@ _Step 1_ Copy the package.json files' content and save.
 
 _step 2_ Then on your terminal install all the project dependencies by running `npm install`.
 
-## Create .env file
+## Create `.env` file
 
 Create a `.env` file and make sure it has the following variables:
 
@@ -45,7 +45,7 @@ _Step 4_ After logging navigate to the navigate back and hover over _"Pay & Get 
 
 _Step 5_ Click on _"Subscription Plans"_ and it will take you to the dashboard where you can view your existing plans. Click _"Create Plan"_, either use an existing product or create a new product.
 
-_Step 6_ Create a product by giving it a suitable name, a relevant product description, product ID (optional, if left empty one will be generated), the product type, and industry category, (optional) you can also add the product -age and image `url`.
+_Step 6_ Create a product by giving it a suitable name, a relevant product description, product ID (optional, if left empty one will be generated), the product type, and industry category, (optional) you can also add both the product page and image `url`.
 
 _Step 7_ Click _"Next"_ and select the desired type of subscription you would like to offer, give the plan a name and description, and click _"Next"_.
 
